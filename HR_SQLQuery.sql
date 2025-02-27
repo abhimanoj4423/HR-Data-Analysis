@@ -1,7 +1,7 @@
 -- create database
 CREATE DATABASE hr
 
--- after loading DB (watch how at https://www.youtube.com/watch?v=4yn7iUJnJtE) force SQL to use new db from this point on
+-- after loading DB 
 use hr
 
 -- explore the loaded data into hr_data
